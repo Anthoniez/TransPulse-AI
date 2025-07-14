@@ -1,9 +1,22 @@
+# Virtual environment
 transpulse/
+
+# Python cache and compiled files
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Serialized models and data
 *.pkl
 *.csv
 *.json
-.env
-.DS_Store
+
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# macOS system file
+.DS_Store
