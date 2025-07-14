@@ -1,0 +1,9 @@
+transpulse/
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+*.json
+.env
+.DS_Store
+.ipynb_checkpoints/
